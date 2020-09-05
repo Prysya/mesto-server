@@ -17,8 +17,8 @@
 
 К api можно обратиться по адресам:
 
-    www.api.prysya-mestko.tk
-    api.prysya-mestko.tk
+    www.api.prysya-mesto.tk
+    api.prysya-mesto.tk
     130.193.45.238
 
 ## Установка
