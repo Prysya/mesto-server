@@ -2,11 +2,18 @@
     <img src="https://res.cloudinary.com/prysya/image/upload/v1595618589/backend_mesto_logo_kfbwvy.svg" width="1060">
 </p>
 <p align="center">
-    <img alt="Version 0.1.1" src="https://img.shields.io/badge/Version-0.1.1-blue.svg" />
+    <img alt="Version 0.3.0" src="https://img.shields.io/badge/Version-0.3.0-blue.svg" />
     <img alt="Stars *" src="https://img.shields.io/badge/Stars-2-green.svg" />
     <img alt="Beta Quality" src="https://img.shields.io/badge/status-Beta-orange.svg" >
 </p>
 
+## Работа с api
+
+К api можно обратиться по адресам:
+
+    www.api.prysya-mesto.tk
+    api.prysya-mesto.tk
+    130.193.45.238
 
 ## Для начала работы вам необходим:
 
